@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"name":"BASE",
+			"path": "."
+		},
+		{
+			"name":"SRC",
+			"path": "./src"
+		},
+		{
+			"name":"DOC",
+			"path": "./doc"
+		},
+	],
+	"settings": {
+		"editor.codeActionsOnSave": {
+			"source.fixAll.eslint": true
+		},
+		"editor.formatOnSave": true,
+		"editor.defaultFormatter": "esbenp.prettier-vscode",
+	}
+}
